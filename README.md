@@ -1,2 +1,2 @@
 # basicGameJava
-This is basic game and it's about monsters.
+This is basic java game and it's about monsters.
